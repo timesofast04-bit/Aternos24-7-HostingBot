@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bbss.aternos.me",
+    "ip": "gulper.aternos.host",
     "port": 60284,
     "version": "",
     "try-creative": false
